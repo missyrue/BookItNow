@@ -53,14 +53,14 @@
 
 .filter-group input:focus {
     outline: none;
-    border-color: #3498db;
-    box-shadow: 0 0 5px rgba(52, 152, 219, 0.3);
+    border-color: #ff6f3c;
+    box-shadow: 0 0 5px rgba(255, 111, 60, 0.3);
 }
 
 .reset-btn {
     width: 100%;
     padding: 0.75rem;
-    background-color: #95a5a6;
+    background-color: #ff9166;
     color: white;
     border-radius: 4px;
     font-weight: 600;
@@ -68,7 +68,7 @@
 }
 
 .reset-btn:hover {
-    background-color: #7f8c8d;
+    background-color: #ff6f3c;
 }
 
 .hotels-list {
@@ -87,7 +87,7 @@
 }
 
 .no-results {
-    background-color: #f0f2f5;
+    background-color: #fff3e0;
     border-radius: 8px;
 }
 
