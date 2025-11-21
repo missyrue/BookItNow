@@ -135,7 +135,7 @@ const Hotels = () => {
                                                 <span className="stars">⭐ {hotel.rating}</span>
                                                 <span className="review-count">({hotel.reviewCount})</span>
                                             </div>
-                                            <p className="price">${hotel.pricePerNight}/night</p>
+                                            <p className="price">₹{hotel.pricePerNight}/night</p>
                                         </div>
                                     </div>
                                 </Link>

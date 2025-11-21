@@ -5,7 +5,7 @@ const About = () => {
     return (
         <div className="about-page">
             <section className="about-hero">
-                <h1>About HotelHub</h1>
+                <h1>About BookItNow</h1>
                 <p>Your trusted partner in finding the perfect hotel experience</p>
             </section>
 
@@ -13,9 +13,9 @@ const About = () => {
                 <div className="content-section">
                     <h2>Who We Are</h2>
                     <p>
-                        HotelHub is a leading online hotel booking platform dedicated to making hotel reservations
-                        easy, affordable, and accessible to travelers worldwide. Founded in 2020, we've successfully
-                        helped thousands of customers find and book their ideal accommodations.
+                        BookItNow is a leading online hotel booking platform dedicated to making hotel reservations
+                        easy, affordable, and accessible to travelers worldwide. Founded in 2025, we've quickly
+                        established ourselves as a trusted name in the travel and hospitality industry.
                     </p>
                 </div>
 
@@ -54,9 +54,9 @@ const About = () => {
                 <div className="content-section">
                     <h2>Our Team</h2>
                     <p>
-                        Our passionate team consists of travel enthusiasts, technology experts, and customer service professionals
-                        who are dedicated to making your hotel booking experience exceptional. We work tirelessly to improve our
-                        services and exceed your expectations.
+                        Our talented team consists of aspiring engineers from PES University who share a passion for travel and bookings.
+                        We are dedicated to revolutionizing the hotel booking experience through innovative technology and exceptional customer service.
+                        Every member of our team brings fresh perspectives and cutting-edge skills to create the best platform for travelers worldwide.
                     </p>
                 </div>
 

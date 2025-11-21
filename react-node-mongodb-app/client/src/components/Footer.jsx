@@ -8,7 +8,7 @@ const Footer = () => {
         <footer className="footer">
             <div className="footer-content">
                 <div className="footer-section">
-                    <h3>About HotelHub</h3>
+                    <h3>About BookItNow</h3>
                     <p>Your trusted platform for finding and booking the perfect hotel for your stay.</p>
                 </div>
                 <div className="footer-section">
@@ -22,9 +22,9 @@ const Footer = () => {
                 </div>
                 <div className="footer-section">
                     <h3>Contact Info</h3>
-                    <p>Email: info@hotelhub.com</p>
-                    <p>Phone: +1 (555) 123-4567</p>
-                    <p>Address: 123 Hotel St, City, State 12345</p>
+                    <p>Email: info@bookitnow.com</p>
+                    <p>Phone: +91 98765 43210</p>
+                    <p>Address: Bangalore, Karnataka, India</p>
                 </div>
                 <div className="footer-section">
                     <h3>Follow Us</h3>
@@ -36,7 +36,7 @@ const Footer = () => {
                 </div>
             </div>
             <div className="footer-bottom">
-                <p>&copy; {currentYear} HotelHub. All rights reserved.</p>
+                <p>&copy; {currentYear} BookItNow. All rights reserved.</p>
             </div>
         </footer>
     );

@@ -1,5 +1,5 @@
 .hotel-details-page {
-    background-color: #f8f9fa;
+    background-color: #fff5ee;
     min-height: calc(100vh - 200px);
 }
 
@@ -85,7 +85,7 @@
     align-items: center;
     gap: 0.75rem;
     padding: 1rem;
-    background-color: #f8f9fa;
+    background-color: #fff3e0;
     border-radius: 4px;
 }
 
@@ -96,7 +96,7 @@
 }
 
 .rating-display {
-    background-color: #f8f9fa;
+    background-color: #fff3e0;
     padding: 2rem;
     border-radius: 8px;
     text-align: center;
@@ -161,14 +161,14 @@
 
 .form-group input:focus {
     outline: none;
-    border-color: #3498db;
-    box-shadow: 0 0 5px rgba(52, 152, 219, 0.3);
+    border-color: #ff6f3c;
+    box-shadow: 0 0 5px rgba(255, 111, 60, 0.3);
 }
 
 .book-btn {
     width: 100%;
     padding: 1rem;
-    background-color: #27ae60;
+    background-color: #ff6f3c;
     color: white;
     font-weight: bold;
     border-radius: 4px;
@@ -177,7 +177,7 @@
 }
 
 .book-btn:hover {
-    background-color: #229954;
+    background-color: #ff5722;
 }
 
 .description-section p {

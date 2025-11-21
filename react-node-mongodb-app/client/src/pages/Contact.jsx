@@ -69,15 +69,15 @@ const Contact = () => {
                     <h2>Get in Touch</h2>
                     <div className="info-card">
                         <h3>📍 Address</h3>
-                        <p>123 Hotel Street<br />New York, NY 10001<br />United States</p>
+                        <p>101 Tech Park, Whitefield<br />Bangalore, Karnataka 560066<br />India</p>
                     </div>
                     <div className="info-card">
                         <h3>📞 Phone</h3>
-                        <p>Main: +1 (555) 123-4567<br />Support: +1 (555) 987-6543<br />Toll Free: 1-800-HOTELS-1</p>
+                        <p>Main: +91 80 4949 4949<br />Support: +91 98765 43210<br />Toll Free: 1800-425-1234</p>
                     </div>
                     <div className="info-card">
                         <h3>✉️ Email</h3>
-                        <p>General: info@hotelhub.com<br />Support: support@hotelhub.com<br />Partnerships: partnerships@hotelhub.com</p>
+                        <p>General: info@bookitnow.com<br />Support: support@bookitnow.com<br />Partnerships: partnerships@bookitnow.com</p>
                     </div>
                     <div className="info-card">
                         <h3>🕐 Business Hours</h3>

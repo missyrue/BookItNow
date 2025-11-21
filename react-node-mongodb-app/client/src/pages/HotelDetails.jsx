@@ -99,7 +99,7 @@ const HotelDetails = () => {
                 <aside className="booking-sidebar">
                     <div className="booking-card">
                         <h3>Book Now</h3>
-                        <p className="price">${hotel.pricePerNight} per night</p>
+                        <p className="price">₹{hotel.pricePerNight} per night</p>
 
                         <div className="form-group">
                             <label htmlFor="checkIn">Check-in Date</label>
