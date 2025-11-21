@@ -45,7 +45,7 @@ const Home = () => {
                         <div className="card-content">
                             <h3>Luxury Resort</h3>
                             <p>Experience ultimate comfort and luxury</p>
-                            <p className="price">From $150/night</p>
+                            <p className="price">From ₹12,500/night</p>
                         </div>
                     </div>
                     
@@ -56,7 +56,7 @@ const Home = () => {
                         <div className="card-content">
                             <h3>Boutique Hotel</h3>
                             <p>Charming and intimate accommodation</p>
-                            <p className="price">From $80/night</p>
+                            <p className="price">From ₹6,700/night</p>
                         </div>
                     </div>
                     
@@ -67,7 +67,7 @@ const Home = () => {
                         <div className="card-content">
                             <h3>Budget Hotel</h3>
                             <p>Affordable comfort for every traveler</p>
-                            <p className="price">From $40/night</p>
+                            <p className="price">From ₹3,300/night</p>
                         </div>
                     </div>
                 </div>
