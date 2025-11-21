@@ -17,7 +17,7 @@ const Home = () => {
         <div className="home-page">
             <section className="hero-section">
                 <div className="hero-content">
-                    <h1>Welcome to HotelHub</h1>
+                    <h1>Welcome to BookItNow</h1>
                     <p>Find and book your perfect hotel stay</p>
                     
                     <form className="search-form" onSubmit={handleSearch}>
