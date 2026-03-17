@@ -27,7 +27,7 @@ MongoDB Atlas
 
 Mongoose
 
-Authentication
+    Authentication
 
 JWT (JSON Web Tokens)
 
